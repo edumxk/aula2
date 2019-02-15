@@ -9,3 +9,6 @@ print(a.pessoa.nome)
 print(a.status)
 a.finalizar_atividade()
 print(a.status)
+
+class Endereco:
+	pass
