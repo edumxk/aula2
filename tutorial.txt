@@ -1,0 +1,11 @@
+inicializar
+
+git init .
+git add *
+git commit -m "inicio"
+
+atualizar
+
+git add *
+git commit -m "segundo"
+git push origin master
